@@ -8,4 +8,4 @@ accountEmail = "abc@gmail.com"
 accountPassword = "29292929"
 accountCity = "Talegaon Dabhade"
 
-console.table([accountID, accountEmail, accountPassword, accountPassword, accountCity, accountState])
+console.table([ accountID, accountEmail, accountPassword, accountCity, accountState])
